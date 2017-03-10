@@ -8,4 +8,9 @@ class Welcome extends MY_Controller {
         $this->middle = 'layout/frontend/home';
         $this->layout();
 	}
+
+	public function login()
+    {
+        $this->load->view('layout/frontend/login');
+    }
 }

@@ -71,7 +71,7 @@
                 <a href="#" class="dropdown-toggle bg clear" data-toggle="dropdown">
                                 <span class="thumb-sm avatar pull-right m-t-n-sm m-b-n-sm m-l-sm">
                                     <img src="<?php echo base_url(); ?>public/images/a0.png" alt="...">
-                                </span> John.Smith <b class="caret"></b>
+                                </span> Miloš Petrović<b class="caret"></b>
                 </a>
                 <ul class="dropdown-menu animated fadeInRight">
                     <li>
